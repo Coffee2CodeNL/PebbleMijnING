@@ -1,0 +1,38 @@
+{
+    "appKeys": {
+        "KEY_BALANCE": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "r.schopmeijer@gmail.com",
+    "longName": "MijnING",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/eurosign.png",
+                "name": "IMAGE_EUROSIGN",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/ingsmall.png",
+                "menuIcon": true,
+                "name": "IMAGE_ING_SMALL_NONTRANS",
+                "type": "png"
+            },
+            {
+                "file": "images/ing.png",
+                "name": "IMAGE_ING_BIG",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "shortName": "Mijn ING",
+    "uuid": "12c5edb7-968e-43f8-a9c9-ab8b3e0c8e38",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
